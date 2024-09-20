@@ -5,3 +5,6 @@ This dataset contains information on vehicular stopped delay at signalized inter
 Alatoom YI, Al-Hamdan AB. A comparative study between different machine learning algorithms for 
 estimating the vehicular delay at signalized intersections. J Soft Comput Civ Eng 2025;9(1):123–158.
 https://doi.org/10.22115/scce.2024.418800.1725
+
+**Paper URL:**
+https://www.jsoftcivil.com/article_196451.html
